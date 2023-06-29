@@ -2,7 +2,7 @@
 
 - GitHub Pages Website: [cintel-01-getting-started](https://amersman.github.io/cintel-01-getting-started/)
 - GitHub Repository: [cintel-01-getting-started](https://github.com/amersman/cintel-01-getting-started)
-- Author: [Denise Case](https://github.com/amersman)
+- Author: [Ashley Mersman](https://github.com/amersman)
 
 
 We begin with two important tools: Git and VS Code. 
